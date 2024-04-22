@@ -1,2 +1,2 @@
 # Social
-social networking website
+social networking app
